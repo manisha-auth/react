@@ -1,0 +1,12 @@
+.card {
+    margin: 20px;
+    background-color: pink;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.nav {
+    background-color: aqua;
+    margin: 5px;
+    padding: 20px;
+}
